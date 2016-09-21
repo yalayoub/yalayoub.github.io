@@ -1,0 +1,26 @@
+body {
+	color: navy;
+	background-color: #c6d7e5;
+}
+h1 {
+	font-family: "Helvetica";
+	font-size: 60px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 44px;
+}
+li {
+	font-family: "Helvetica"
+	font-size: 20px;
+}
+a: link {
+	color: white;
+	text-decoration: no text-decoration; 
+}
+a:hover {
+	color: #47439d;
+}
+a:visited {
+	color: #98c6ff;
+}
