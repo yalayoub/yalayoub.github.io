@@ -1,0 +1,15 @@
+	body {
+	background-color: #f5f0c8;
+	}
+
+	.home{
+	position: absolute; 
+	bottom: -1200px; 
+	right: 0px;
+}
+
+.vid {
+	position: absolute; 
+	top: 1400px; 
+	left: 150px;	
+}

@@ -1,9 +1,18 @@
-#bg {
-  position: fixed; 
-  top: 0; 
-  left: 0; 
-	
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
-}
+body {
+	background-color: #39393c;
+	}
+
+.food
+{ display: inline-block;}
+
+.clothing
+{ display: inline-block;}
+
+.music
+{ display: inline-block;}
+
+.parade
+{ display: inline-block;}
+
+.culture
+{ display: inline-block;}

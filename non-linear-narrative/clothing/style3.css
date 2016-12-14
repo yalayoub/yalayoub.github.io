@@ -1,0 +1,45 @@
+	body {
+	background-color: #f5f0c8;
+	}
+
+	.home{
+	position: absolute; 
+	bottom: -1400px; 
+	right: 0px;
+}
+
+.clickmusic {
+   position: absolute;
+   bottom: -1200px;
+   left: -323px;
+}
+
+.dishdasha {
+   position: absolute;
+   top: 0px;
+   right: 1423px;
+}
+
+.abaya {
+   position: absolute;
+   top: 0px;
+   right: 153px;
+}
+
+.daraa {
+   position: absolute;
+   top: 800px;
+   right: 153px;  
+}
+
+.ghutra {
+   position: absolute;
+   top: 800px;
+   right: 1423px;
+}
+
+.hijab {
+   position: absolute;
+   top: 1600px;
+   right: 1423px;
+}

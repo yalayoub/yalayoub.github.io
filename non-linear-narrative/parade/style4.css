@@ -1,0 +1,15 @@
+	body {
+	background-color: #f5f0c8;
+	}
+
+	.home{
+	position: absolute; 
+	bottom: -1400px; 
+	right: 0px;
+}
+
+.clickpeople {
+   position: absolute;
+   bottom: -1200px;
+   left: -323px;
+}

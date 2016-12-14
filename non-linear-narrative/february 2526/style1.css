@@ -1,0 +1,15 @@
+body {
+	background-color: #f5f0c8;
+	}
+
+.text{
+	position: absolute; 
+	bottom: -1200px; 
+	right: 0px;
+	left: 13px
+}
+	.home{
+	position: absolute; 
+	bottom: -1400px; 
+	right: 0px;
+}

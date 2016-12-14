@@ -1,0 +1,45 @@
+	body {
+	background-color: #f5f0c8;
+	}
+
+	.home {
+	position: absolute; 
+	bottom: -1300px; 
+	right: -3600px;
+}
+
+.watan {
+	position: absolute; 
+	top: 1400px; 
+	left: 150px;
+	font-size:100%;
+	font:Helvetica;
+	font-family: Helvetica
+
+}
+
+.ashat {
+	position: absolute; 
+	top: 140px; 
+	left: 10px;
+	font-size:100%;
+	font:Helvetica;
+	font-family: Helvetica
+
+}
+
+.kulama {
+	position: absolute; 
+	top: 140px; 
+	left: 10px;
+	font-size:100%;
+	font:Helvetica;
+	font-family: Helvetica
+}
+
+
+.clickparade {
+   position: absolute;
+   bottom: -1200px;
+   left: -323px;
+}
